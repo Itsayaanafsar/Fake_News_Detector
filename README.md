@@ -61,7 +61,7 @@ These metrics help evaluate how well the model distinguishes between fake and re
 ## ▶️ How to Run the Project
 
 1. Clone the repository:
-git clone https://github.com/itsayaanafsar/fake-news-detector.git
+git clone https://github.com/Itsayaanafsar/Fake_News_Detector.git
 
 2. Install dependencies:
    pip install pandas numpy scikit-learn
